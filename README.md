@@ -1,2 +1,6 @@
 # web-335
-NoSQL
+# NoSQL
+
+# Contributors
+Professor Krasso - Bellevue University
+Rita DeBraal - Bellevue University
