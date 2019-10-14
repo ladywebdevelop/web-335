@@ -1,4 +1,3 @@
-# web-335
 # NoSQL
 
 # Contributors
